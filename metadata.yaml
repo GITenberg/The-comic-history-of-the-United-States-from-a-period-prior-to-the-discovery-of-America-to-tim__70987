@@ -5,12 +5,17 @@ contributor:
     agent_name: Scratchly, Harry
     gutenberg_agent_id: '56026'
     url: http://www.gutenberg.org/2009/agents/56026
+covers:
+- cover_type: archival
+  image_path: 70987-h/images/cover.jpg
 creator:
   author:
     agent_name: Sherwood, John D.
     gutenberg_agent_id: '56025'
     url: http://www.gutenberg.org/2009/agents/56025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70987#The-comic-history-of-the-United-States-from-a-period-prior-to-the-discovery-of-America-to-tim_
 gutenberg_issued: '2023-06-16'
 identifiers:
   gutenberg: '70987'
